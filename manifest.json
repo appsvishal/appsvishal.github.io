@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "appsvishal.github",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "appsvishal.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "productivity"
+  ]
+}
