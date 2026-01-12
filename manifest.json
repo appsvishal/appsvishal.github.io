@@ -62,8 +62,8 @@
   "dir": "ltr",
   "lang": "en",
   "display_override": [
-    "standalone",
-    "window-controls-overlay"
+    "window-controls-overlay",
+    "fullscreen"
   ],
   "categories": [
     "productivity"
